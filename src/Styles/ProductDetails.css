@@ -1,0 +1,54 @@
+.productDetails{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    /* background: rgba(84, 84, 84, 0.3); */
+    background: rgba(0, 0, 0, 0.3);
+    transform: translateZ(50px);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+
+  .productDetailsHead{
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    margin-left: 1rem;
+    /* background: rgba(84, 84, 84, 0.3); */
+    background: rgba(0, 0, 0, 0.3);
+    transform: translateZ(50px);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    color: white;
+  }
+  
+  
+  .productDetails-box {
+      
+      padding: 0.1rem 2rem;
+    }
+
+/* ----------------------------------------------- */
+    /* .accordion-button {
+      background-color: rgb(155, 203, 233) ;
+      color: black;
+    }
+    
+    .accordion-body {
+      background-color: lightblue;
+    } */
+    
+    .accordion-body {
+      /* background-color: lightblue; */
+      animation: fade-in 0.3s ease-in-out;
+    }
+    
+    @keyframes fade-in {
+      from {
+        opacity: 0;
+        transform: translateX(-10%);
+      }
+      to {
+        opacity: 1;
+        transform: translateX(0);
+      }
+    }
+
+    
+    

@@ -1,0 +1,68 @@
+
+/* .proCard :hover{
+    border: 1px solid;
+    box-shadow: 5px 10px #888888;
+} */
+
+.product{
+    padding-top: 5rem;
+    padding-bottom: 3rem;
+    background: rgba(84, 84, 84, 0.3);
+    transform: translateZ(50px);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.productCard{
+    /* padding-top: 5rem;
+    padding-bottom: 3rem; */
+    background: rgba(84, 84, 84, 0.3);
+    transform: translateZ(50px);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.supplyProduct{
+    color: black;
+    opacity: 0.8;
+    border-radius: 1rem;
+    background-color: rgb(210, 210, 210);
+    margin-top: 3rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/* .effect:hover{
+    border: 0.8rem solid transparent;
+    
+} */
+
+.manufature{
+    margin-left:0.8rem;
+}
+
+.card-group{
+    justify-content: center;
+}
+
+@media only screen and (min-width:365px) and (max-width:424px) {
+    .card-group{
+        margin-left:2rem;
+    }
+}
+
+@media only screen and (min-width:425px) and (max-width:575px) {
+    .card-group{
+        margin-left:4rem;
+    }
+}
+
+    /* .modal.fade .modal-dialog {
+        transform: translate(0, -50px);
+        transition: transform 0.3s ease-out;
+    }
+    .modal.fade.show .modal-dialog {
+        transform: translate(0, 0);
+    } */
+
+    .photo img{
+        width: 20%;
+        aspect-ratio: 3/2;
+        object-fit: contain;
+    }

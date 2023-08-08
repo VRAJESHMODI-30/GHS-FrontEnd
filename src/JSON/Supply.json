@@ -1,0 +1,1158 @@
+[
+    {
+        "id": 100,
+        "subCategory": true,
+        "productCategory": "Hydraulic Pumps",
+        "categoryImg": [],
+        "categoryInfo": "Hydraulic pumps convert electrical energy into fluid pressure by using an electric motor to drive the pump. They are necessary for all hydraulic drives. The fluid pressure is then delivered by hydraulic fluid to cylinders and actuators and hydraulic motors at the required pressure level and volume.",
+        "suppliers": [
+            {
+                "logoUrl": "rexorth.webp"
+            },
+            {
+                "logoUrl": "Eaton.webp"
+            },
+            {
+                "logoUrl": "Sai.webp"
+            },
+            {
+                "logoUrl": "Blain.webp"
+            },
+            {
+                "logoUrl": "yuken.webp"
+            },
+            {
+                "logoUrl": "parker_denison.webp"
+            },
+            {
+                "logoUrl": "epe.webp"
+            },
+            {
+                "logoUrl": "sam.webp"
+            },
+            {
+                "logoUrl": "hydroline.webp"
+            },
+            {
+                "logoUrl": "ognibene.webp"
+            },
+            {
+                "logoUrl": "jackteck.webp"
+            },
+            {
+                "logoUrl": "koojan.webp"
+            },
+            {
+                "logoUrl": "poluhydron.webp"
+            },
+            {
+                "logoUrl": "tokyo_jfif.webp"
+            },
+            {
+                "logoUrl": "kawasaki.webp"
+            },
+            {
+                "logoUrl": "settima.webp"
+            },
+            {
+                "logoUrl": "linde.webp"
+            },
+            {
+                "logoUrl": "casappa.webp"
+            }
+        ],
+        "productJSON": [
+            {
+                "id": 101,
+                "subCategory": false,
+                "productName": "Vane Pump",
+                "ImgUrl": [],
+                "applications": "Power steering systems in automobiles, Hydraulic presses, Chemical and petrochemical processing, Industrial machinery, such as machine tools and hydraulic power units, etc..."
+            },
+            {
+                "id": 102,
+                "subCategory": false,
+                "productName": "Int & Ext Gear Pump",
+                "ImgUrl": [],
+                "applications": "Lubrication systems, Hydraulic power units, Fuel transfer systems, Pulp and paper processing, etc..."
+            },
+            {
+                "id": 103,
+                "subCategory": false,
+                "productName": "Radial Piston Pump",
+                "ImgUrl": [],
+                "applications": "Industrial machinery, such as machine tools and hydraulic power units, Presses and injection molding machines, Construction equipment such as cranes and excavators, Mining equipment, such as drilling machines and loaders, Agricultural machinery, such as tractors and harvesters, Marine equipment, such as ship steering and propulsion systems, etc..."
+            },
+            {
+                "id": 104,
+                "subCategory": false,
+                "productName": "Axial Piston Pump",
+                "ImgUrl": [],
+                "applications": "Machine Tools, Construction Equipment, Agriculture Equipment, Aerospace Industry, etc..."
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "subCategory": true,
+        "productCategory": "Hydraulic Motors",
+        "categoryImg": [],
+        "categoryInfo": "Hydraulic motors are powered by pressurized hydraulic fluid and transfer rotational kinetic energy to mechanical devices. Hydraulic motors, when powered by a mechanical source, can rotate in the reverse direction, and act as a pump. Hydraulic rotary actuators use pressurized fluid to rotate mechanical components.",
+        "suppliers": [
+            {
+                "logoUrl": "rexorth.webp"
+            },
+            {
+                "logoUrl": "Eaton.webp"
+            },
+            {
+                "logoUrl": "Sai.webp"
+            },
+            {
+                "logoUrl": "Blain.webp"
+            },
+            {
+                "logoUrl": "yuken.webp"
+            },
+            {
+                "logoUrl": "parker_denison.webp"
+            },
+            {
+                "logoUrl": "epe.webp"
+            },
+            {
+                "logoUrl": "sam.webp"
+            },
+            {
+                "logoUrl": "hydroline.webp"
+            },
+            {
+                "logoUrl": "ognibene.webp"
+            },
+            {
+                "logoUrl": "jackteck.webp"
+            },
+            {
+                "logoUrl": "koojan.webp"
+            },
+            {
+                "logoUrl": "poluhydron.webp"
+            },
+            {
+                "logoUrl": "tokyo_jfif.webp"
+            },
+            {
+                "logoUrl": "kawasaki.webp"
+            },
+            {
+                "logoUrl": "settima.webp"
+            },
+            {
+                "logoUrl": "linde.webp"
+            },
+            {
+                "logoUrl": "casappa.webp"
+            }
+        ],
+        "productJSON": [
+            {
+                "id": 201,
+                "subCategory": false,
+                "productName": "Orbital Motor",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 201,
+                "subCategory": false,
+                "productName": "Gear Motor",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 201,
+                "subCategory": false,
+                "productName": "Axial Piston Motor",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 201,
+                "subCategory": false,
+                "productName": "Radial Piston Motor",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            }
+        ]
+    },
+    {
+        "id": 300,
+        "subCategory": true,
+        "productCategory": "Hose",
+        "categoryImg": [],
+        "categoryInfo": "A hose is a long plastic or rubber tube that's used for moving a liquid from one place to another. You may use a hose to water your lawn, or to get gas from the pump into your car's tank.",
+        "suppliers": [
+            {
+                "logoUrl": "denfoss.webp"
+            },
+            {
+                "logoUrl": "polyhouse.webp"
+            },
+            {
+                "logoUrl": "vardhman.webp"
+            },
+            {
+                "logoUrl": "parker.webp"
+            },
+            {
+                "logoUrl": "dunlop.webp"
+            },
+            {
+                "logoUrl": "gates.webp"
+            },
+            {
+                "logoUrl": "dora_flex.webp"
+            },
+            {
+                "logoUrl": "euroflex.webp"
+            }
+            
+        ],
+        "productJSON": [
+            {
+                "id": 301,
+                "subCategory": false,
+                "productName": "Hydraulic Hose",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 302,
+                "subCategory": false,
+                "productName": "Push-Lok and Push-On Hose",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 303,
+                "subCategory": false,
+                "productName": "Transfer Hose",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 304,
+                "subCategory": false,
+                "productName": "Hose Assemblies",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 305,
+                "subCategory": false,
+                "productName": "Constant Working Pressure Hose",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 306,
+                "subCategory": false,
+                "productName": "Fuel Hose",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 307,
+                "subCategory": false,
+                "productName": "Suction Hose",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 308,
+                "subCategory": false,
+                "productName": "PTFE Hose",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 309,
+                "subCategory": false,
+                "productName": "Speciality Hose",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 310,
+                "subCategory": false,
+                "productName": "Air Hose",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 311,
+                "subCategory": false,
+                "productName": "Water Blast Hose",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 312,
+                "subCategory": false,
+                "productName": "Water Hose",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 313,
+                "subCategory": false,
+                "productName": "Chemical Hose",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 314,
+                "subCategory": false,
+                "productName": "Coolant Hose",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 315,
+                "subCategory": false,
+                "productName": "Food Grade Hose",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 316,
+                "subCategory": false,
+                "productName": "Oil Hose",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 317,
+                "subCategory": false,
+                "productName": "Steam Hose",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 318,
+                "subCategory": false,
+                "productName": "High Pressure Hose",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 319,
+                "subCategory": false,
+                "productName": "Pneumatic Hose",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            }
+        ]
+    },
+    {
+        "id": 400,
+        "subCategory": true,
+        "productCategory": "Seals & O-Rings",
+        "categoryImg": [],
+        "categoryInfo": "The O ring is a seal that is ring-shaped with a round cross-section, like a donut. They are basically rubber rings used as seals. O-rings are among the most widely used seals in machinery and equipment, as they are cheap, easy to produce, reliable and easy to fit.",
+        "suppliers": [
+            {
+                "logoUrl": "kastas.webp"
+            },
+            {
+                "logoUrl": "sog.webp"
+            },
+            {
+                "logoUrl": "gapi.webp"
+            },
+            {
+                "logoUrl": "nilkamal.webp"
+            },
+            {
+                "logoUrl": "parker_seals.webp"
+            },
+            {
+                "logoUrl": "uns_uhs.webp"
+            },
+            {
+                "logoUrl": "Guranitec.webp"
+            }
+        ],
+        "productJSON": [
+            {
+                "id": 401,
+                "subCategory": false,
+                "productName": "Back-up Ring",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 402,
+                "subCategory": false,
+                "productName": "Buffer Seal",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 403,
+                "subCategory": false,
+                "productName": "Cushioning Seal",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 404,
+                "subCategory": false,
+                "productName": "Custom Seal",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 405,
+                "subCategory": false,
+                "productName": "Fastener Seal",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 406,
+                "subCategory": false,
+                "productName": "Flange Seal",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 407,
+                "subCategory": false,
+                "productName": "O-Ring and O-Ring Accessories",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 408,
+                "subCategory": false,
+                "productName": "Piston Seal",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 409,
+                "subCategory": false,
+                "productName": "Rod Seal",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 410,
+                "subCategory": false,
+                "productName": "Rotary Seal and Bearing Isolator",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 411,
+                "subCategory": false,
+                "productName": "Static Seal",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 412,
+                "subCategory": false,
+                "productName": "Valve Seals",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            }
+        ]
+    },
+    {
+        "id": 500,
+        "subCategory": true,
+        "productCategory": "Valves",
+        "categoryImg": [],
+        "categoryInfo": "A hydraulic valve is a mechanical device designed to control the direction of liquid, usually oil, through a hydraulic circuit. Crucial to any hydraulic system, they can regulate the speed of motors and movement of cylinders.",
+        "suppliers": [
+            {
+                "logoUrl": "rexorth.webp"
+            },
+            {
+                "logoUrl": "Eaton.webp"
+            },
+            {
+                "logoUrl": "Sai.webp"
+            },
+            {
+                "logoUrl": "Blain.webp"
+            },
+            {
+                "logoUrl": "yuken.webp"
+            },
+            {
+                "logoUrl": "parker_denison.webp"
+            },
+            {
+                "logoUrl": "epe.webp"
+            },
+            {
+                "logoUrl": "sam.webp"
+            },
+            {
+                "logoUrl": "hydroline.webp"
+            },
+            {
+                "logoUrl": "ognibene.webp"
+            },
+            {
+                "logoUrl": "jackteck.webp"
+            },
+            {
+                "logoUrl": "koojan.webp"
+            },
+            {
+                "logoUrl": "poluhydron.webp"
+            },
+            {
+                "logoUrl": "tokyo_jfif.webp"
+            },
+            {
+                "logoUrl": "kawasaki.webp"
+            },
+            {
+                "logoUrl": "settima.webp"
+            },
+            {
+                "logoUrl": "linde.webp"
+            },
+            {
+                "logoUrl": "casappa.webp"
+            }
+        ],
+        "productJSON": [
+            {
+                "id": 501,
+                "subCategory": false,
+                "productName": "Valves Accessories & Kits",
+                "ImgUrl": [],
+                "applications": "Valve maintenance, repair, and modification"
+            },
+            {
+                "id": 502,
+                "subCategory": false,
+                "productName": "Valve Terminals & Controls",
+                "ImgUrl": [],
+                "applications": "Industrial control systems"
+            },
+            {
+                "id": 503,
+                "subCategory": false,
+                "productName": "Ball Valves",
+                "ImgUrl": [],
+                "applications": "Fluid control systems"
+            },
+            {
+                "id": 504,
+                "subCategory": false,
+                "productName": "Counterbalance Valves",
+                "ImgUrl": [],
+                "applications": "Hydraulic systems"
+            },
+            {
+                "id": 505,
+                "subCategory": false,
+                "productName": "Pressure Relief Valves",
+                "ImgUrl": [],
+                "applications": "Pressure regulation systems"
+            },
+            {
+                "id": 506,
+                "subCategory": false,
+                "productName": "Shut Off Valves",
+                "ImgUrl": [],
+                "applications": "Fluid control systems"
+            },
+            {
+                "id": 507,
+                "subCategory": false,
+                "productName": "Spool Valves",
+                "ImgUrl": [],
+                "applications": "Hydraulic systems"
+            },
+            {
+                "id": 508,
+                "subCategory": false,
+                "productName": "Butterfly Valves",
+                "ImgUrl": [],
+                "applications": "Fluid control systems"
+            },
+            {
+                "id": 509,
+                "subCategory": false,
+                "productName": "Directional Control Valves",
+                "ImgUrl": [],
+                "applications": "Industrial control systems"
+            },
+            {
+                "id": 510,
+                "subCategory": false,
+                "productName": "Proportional Valves",
+                "ImgUrl": [],
+                "applications": "Fluid control systems"
+            },
+            {
+                "id": 511,
+                "subCategory": false,
+                "productName": "Shuttle Valves",
+                "ImgUrl": [],
+                "applications": "Hydraulic systems"
+            },
+            {
+                "id": 512,
+                "subCategory": false,
+                "productName": "Throttle Valves",
+                "ImgUrl": [],
+                "applications": "Fluid control systems"
+            },
+            {
+                "id": 513,
+                "subCategory": false,
+                "productName": "Manifolds",
+                "ImgUrl": [],
+                "applications": "Fluid and gas distribution systems"
+            },
+            {
+                "id": 514,
+                "subCategory": false,
+                "productName": "Check Valves",
+                "ImgUrl": [],
+                "applications": "Fluid and gas control systems"
+            },
+            {
+                "id": 515,
+                "subCategory": false,
+                "productName": "Electronic Valves",
+                "ImgUrl": [],
+                "applications": "Industrial control systems"
+            },
+            {
+                "id": 516,
+                "subCategory": false,
+                "productName": "Purge Valves",
+                "ImgUrl": [],
+                "applications": "Gas purification systems"
+            },
+            {
+                "id": 517,
+                "subCategory": false,
+                "productName": "Servo Valves",
+                "ImgUrl": [],
+                "applications": "Industrial control systems"
+            },
+            {
+                "id": 518,
+                "subCategory": false,
+                "productName": "Ultra High Purity Valves",
+                "ImgUrl": [],
+                "applications": "Semiconductor manufacturing equipment"
+            },
+            {
+                "id": 519,
+                "subCategory": false,
+                "productName": "Angle Valves",
+                "ImgUrl": [],
+                "applications": "Fluid control systems"
+            },
+            {
+                "id": 520,
+                "subCategory": false,
+                "productName": "Cartridge Valves",
+                "ImgUrl": [],
+                "applications": "Hydraulic systems"
+            },
+            {
+                "id": 521,
+                "subCategory": false,
+                "productName": "Fieldbus & Industrial Networks",
+                "ImgUrl": [],
+                "applications": "Industrial control systems"
+            },
+            {
+                "id": 522,
+                "subCategory": false,
+                "productName": "Safety Valves",
+                "ImgUrl": [],
+                "applications": "Pressure regulation systems"
+            },
+            {
+                "id": 523,
+                "subCategory": false,
+                "productName": "Solenoid Valves",
+                "ImgUrl": [],
+                "applications": "Industrial control systems"
+            },
+            {
+                "id": 524,
+                "subCategory": false,
+                "productName": "Flow Control Valves",
+                "ImgUrl": [],
+                "applications": "Fluid control systems"
+            },
+            {
+                "id": 525,
+                "subCategory": false,
+                "productName": "Instrumentation Valves",
+                "ImgUrl": [],
+                "applications": "Measurement and control systems"
+            },
+            {
+                "id": 526,
+                "subCategory": false,
+                "productName": "Logic Valves",
+                "ImgUrl": [],
+                "applications": "Industrial control systems"
+            },
+            {
+                "id": 527,
+                "subCategory": false,
+                "productName": "Pilot Valves",
+                "ImgUrl": [],
+                "applications": "Hydraulic systems"
+            },
+            {
+                "id": 530,
+                "subCategory": false,
+                "productName": "Double Block and Bleed Valves",
+                "ImgUrl": [],
+                "applications": "Fluid and gas control systems"
+            },
+            {
+                "id": 531,
+                "subCategory": false,
+                "productName": "Gate Valves",
+                "ImgUrl": [],
+                "applications": "Fluid control systems"
+            },
+            {
+                "id": 532,
+                "subCategory": false,
+                "productName": "Metering Valves",
+                "ImgUrl": [],
+                "applications": "Fluid and gas control systems"
+            },
+            {
+                "id": 533,
+                "subCategory": false,
+                "productName": "Plug Valves",
+                "ImgUrl": [],
+                "applications": "Fluid control systems"
+            },
+            {
+                "id": 534,
+                "subCategory": false,
+                "productName": "Shuttle Valves",
+                "ImgUrl": [],
+                "applications": "Hydraulic systems"
+            },
+            {
+                "id": 535,
+                "subCategory": false,
+                "productName": "Throttle Valves",
+                "ImgUrl": [],
+                "applications": "Fluid control systems"
+            },
+            {
+                "id": 536,
+                "subCategory": false,
+                "productName": "Dump and Soft Start Valves",
+                "ImgUrl": [],
+                "applications": "Hydraulic systems"
+            },
+            {
+                "id": 537,
+                "subCategory": false,
+                "productName": "Globe Valves",
+                "ImgUrl": [],
+                "applications": "Fluid control systems"
+            },
+            {
+                "id": 538,
+                "subCategory": false,
+                "productName": "Miniature Valves",
+                "ImgUrl": [],
+                "applications": "Miniature fluid and gas control systems"
+            },
+            {
+                "id": 539,
+                "subCategory": false,
+                "productName": "PFA Valves",
+                "ImgUrl": [],
+                "applications": "High-purity fluid control systems"
+            },
+            {
+                "id": 540,
+                "subCategory": false,
+                "productName": "Servo Valves",
+                "ImgUrl": [],
+                "applications": "Motion control systems"
+            },
+            {
+                "id": 541,
+                "subCategory": false,
+                "productName": "Ultra High Purity Valves",
+                "ImgUrl": [],
+                "applications": "Ultra high-purity fluid control systems"
+            },
+            {
+                "id": 542,
+                "subCategory": false,
+                "productName": "Hydraulic Valves",
+                "ImgUrl": [],
+                "applications": "Hydraulic systems"
+            },
+            {
+                "id": 543,
+                "subCategory": false,
+                "productName": "Needle Valves",
+                "ImgUrl": [],
+                "applications": "Fluid and gas control systems"
+            },
+            {
+                "id": 544,
+                "subCategory": false,
+                "productName": "Pressure Control Valves",
+                "ImgUrl": [],
+                "applications": "Pressure regulation systems"
+            }
+        ]
+    },
+    {
+        "id": 600,
+        "subCategory": true,
+        "productCategory": "Fittings & Quick Couplings",
+        "categoryImg": [],
+        "categoryInfo": "Couplings are pipe fittings that help to extend or terminate pipe runs. These fittings are also used to change pipe size. It's also used to repair a broken or leaking pipe. Most pipe installations require several lengths of pipe to be joined together or cut to facilitate changes in direction and crossing of obstacles.",
+        "suppliers": [
+            {
+                "logoUrl": "rexorth.webp"
+            },
+            {
+                "logoUrl": "Eaton.webp"
+            },
+            {
+                "logoUrl": "Sai.webp"
+            },
+            {
+                "logoUrl": "Blain.webp"
+            },
+            {
+                "logoUrl": "yuken.webp"
+            },
+            {
+                "logoUrl": "parker_denison.webp"
+            },
+            {
+                "logoUrl": "epe.webp"
+            },
+            {
+                "logoUrl": "sam.webp"
+            },
+            {
+                "logoUrl": "hydroline.webp"
+            },
+            {
+                "logoUrl": "ognibene.webp"
+            },
+            {
+                "logoUrl": "jackteck.webp"
+            },
+            {
+                "logoUrl": "koojan.webp"
+            },
+            {
+                "logoUrl": "poluhydron.webp"
+            },
+            {
+                "logoUrl": "tokyo_jfif.webp"
+            },
+            {
+                "logoUrl": "kawasaki.webp"
+            },
+            {
+                "logoUrl": "settima.webp"
+            },
+            {
+                "logoUrl": "linde.webp"
+            },
+            {
+                "logoUrl": "casappa.webp"
+            }
+        ],
+        "productJSON": [
+            {
+                "id": 601,
+                "subCategory": false,
+                "productName": "Adapters",
+                "ImgUrl": [],
+                "applications": "Connecting different types of pipes, hoses, or fittings together"
+            },
+            {
+                "id": 602,
+                "subCategory": false,
+                "productName": "Flare Fittings",
+                "ImgUrl": [],
+                "applications": "Joining pipes and tubing in high-pressure fluid systems, such as refrigeration or hydraulic systems"
+            },
+            {
+                "id": 603,
+                "subCategory": false,
+                "productName": "Pipe Fittings",
+                "ImgUrl": [],
+                "applications": "Connecting pipes or tubes to other components in a fluid system, such as pumps or valves"
+            },
+            {
+                "id": 604,
+                "subCategory": false,
+                "productName": "Quick Couplings Pneumatic",
+                "ImgUrl": [],
+                "applications": "Rapidly connecting or disconnecting pneumatic tools, hoses, or equipment"
+            },
+            {
+                "id": 605,
+                "subCategory": false,
+                "productName": "Barbed Fittings",
+                "ImgUrl": [],
+                "applications": "Connecting flexible tubing or hoses to a rigid component, such as a pipe or valve"
+            },
+            {
+                "id": 606,
+                "subCategory": false,
+                "productName": "Flareless and Bite Type Fittings",
+                "ImgUrl": [],
+                "applications": "Connecting high-pressure tubing or pipes in fluid systems, such as aerospace, automotive, or hydraulic applications"
+            },
+            {
+                "id": 607,
+                "subCategory": false,
+                "productName": "Pneumatic Fittings",
+                "ImgUrl": [],
+                "applications": "Connecting and controlling pneumatic systems, such as compressed air systems, valves, and actuators"
+            },
+            {
+                "id": 608,
+                "subCategory": false,
+                "productName": "Quick Couplings Application Based",
+                "ImgUrl": [],
+                "applications": "Connecting and disconnecting fluids, gases, or electrical signals quickly and easily in a wide range of industrial and commercial applications"
+            },
+            {
+                "id": 609,
+                "subCategory": false,
+                "productName": "Compression Fittings",
+                "ImgUrl": [],
+                "applications": "Connecting and sealing pipes or tubing in a variety of applications, including plumbing, gas distribution, and hydraulic systems"
+            },
+            {
+                "id": 610,
+                "subCategory": false,
+                "productName": "Hose Fittings",
+                "ImgUrl": [],
+                "applications": "Connecting and securing hoses to other components, such as pumps, valves, or tanks, in a variety of applications, including industrial, agricultural, and automotive systems"
+            },
+            {
+                "id": 611,
+                "subCategory": false,
+                "productName": "Pneumatic Function Fittings and Flow Control",
+                "ImgUrl": [],
+                "applications": "Controlling and directing the flow of compressed air in pneumatic systems, including valves, cylinders, and actuators"
+            },
+            {
+                "id": 612,
+                "subCategory": false,
+                "productName": "Cone and Thread Fittings and Adapters",
+                "ImgUrl": [],
+                "applications": "High pressure hydraulic systems"
+            },
+            {
+                "id": 613,
+                "subCategory": false,
+                "productName": "Hydraulic Fittings",
+                "ImgUrl": [],
+                "applications": "Hydraulic systems and equipment"
+            },
+            {
+                "id": 614,
+                "subCategory": false,
+                "productName": "Push-to-Connect Fittings",
+                "ImgUrl": [],
+                "applications": "Automotive and pneumatic systems"
+            },
+            {
+                "id": 615,
+                "subCategory": false,
+                "productName": "Face Seal Fittings",
+                "ImgUrl": [],
+                "applications": "High pressure hydraulic systems"
+            },
+            {
+                "id": 616,
+                "subCategory": false,
+                "productName": "Instrumentation Fittings",
+                "ImgUrl": [],
+                "applications": "Process control and instrumentation systems"
+            },
+            {
+                "id": 617,
+                "subCategory": false,
+                "productName": "Quick Couplings Hydraulic",
+                "ImgUrl": [],
+                "applications": "Hydraulic systems and equipment"
+            }
+        ]
+    },
+    {
+        "id": 700,
+        "subCategory": true,
+        "productCategory": "Accessories",
+        "categoryImg": [],
+        "categoryInfo": "",
+        "suppliers": [
+            {
+                "logoUrl": "rexorth.webp"
+            },
+            {
+                "logoUrl": "Eaton.webp"
+            },
+            {
+                "logoUrl": "Sai.webp"
+            },
+            {
+                "logoUrl": "Blain.webp"
+            },
+            {
+                "logoUrl": "yuken.webp"
+            },
+            {
+                "logoUrl": "parker_denison.webp"
+            },
+            {
+                "logoUrl": "epe.webp"
+            },
+            {
+                "logoUrl": "sam.webp"
+            },
+            {
+                "logoUrl": "hydroline.webp"
+            },
+            {
+                "logoUrl": "ognibene.webp"
+            },
+            {
+                "logoUrl": "jackteck.webp"
+            },
+            {
+                "logoUrl": "koojan.webp"
+            },
+            {
+                "logoUrl": "poluhydron.webp"
+            },
+            {
+                "logoUrl": "tokyo_jfif.webp"
+            },
+            {
+                "logoUrl": "kawasaki.webp"
+            },
+            {
+                "logoUrl": "settima.webp"
+            },
+            {
+                "logoUrl": "linde.webp"
+            },
+            {
+                "logoUrl": "casappa.webp"
+            }
+        ],
+        "productJSON": [
+            {
+                "id": 701,
+                "subCategory": false,
+                "productName": "Fluid Level Indicator",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 702,
+                "subCategory": false,
+                "productName": "Hydraulic Manifold Block",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 703,
+                "subCategory": false,
+                "productName": "Gear Coupling",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 704,
+                "subCategory": false,
+                "productName": "Hydraulic Pipe Clamps",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 705,
+                "subCategory": false,
+                "productName": "Suction Strainer & Return line filter",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 706,
+                "subCategory": false,
+                "productName": "Filler Breather",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 707,
+                "subCategory": false,
+                "productName": "Bell Housing",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 708,
+                "subCategory": false,
+                "productName": "Accumulators",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 709,
+                "subCategory": false,
+                "productName": "Pressure Gauge",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 710,
+                "subCategory": false,
+                "productName": "Bearings",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            },
+            {
+                "id": 711,
+                "subCategory": false,
+                "productName": "Hydraulic Jacks",
+                "ImgUrl": [],
+                "applications": "Glass embossing"
+            }
+        ]
+    }
+]

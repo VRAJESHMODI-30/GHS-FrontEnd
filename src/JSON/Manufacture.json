@@ -1,0 +1,166 @@
+[
+    {
+        "id": 1,
+        "specaility": false,
+        "subCategory": false,
+        "productName": "APG Clamping Machine",
+        "ImgUrl": [
+            "/Assets/Manufacture/APG CLAMPING MACHINE.webp",
+            "/Assets/Manufacture/APG CLAMPING MACHINE1.webp"
+        ],
+        "Price": "₹ 3,50,000/-",
+        "manufacturer": "GHS",
+        "country_of_origin": "India",
+        "applications": "Mold casting",
+        "powerSource": "Electric",
+        "capacity": "BED SIZE 1000MM X 1000MM",
+        "warranty": "1 year"
+    },
+    {
+        "id": 18,
+        "specaility": false,
+        "subCategory": false,
+        "productName": "Bailing Machine",
+        "ImgUrl": ["/Assets/Manufacture/hydraulic-baling-machine.webp"],
+        "Price": "₹ 9,00,000/-",
+        "manufacturer": "GHS",
+        "country_of_origin": "India",
+        "applications": "Compressing and Binding materials",
+        "powerSource": "Electric",
+        "capacity": "100 TON TO 500 TON",
+        "warranty": "1 year"
+    },
+    {
+        "id": 8,
+        "specaility": false,
+        "subCategory": false,
+        "productName": "Hydraulic Sheet Metal Press Brake",
+        "ImgUrl": [
+            "/Assets/Manufacture/Sheet metal press brake1.webp"
+        ],
+        "Price": "₹ 28000",
+        "manufacturer": "GHS",
+        "country_of_origin": "India",
+        "applications": "Metalworking, Manufacturing",
+        "powerSource": "Electric",
+        "capacity": "220V to 480V, 3-phase",
+        "warranty": "1 year"
+    },
+    {
+        "id": 9,
+        "specaility": false,
+        "subCategory": false,
+        "productName": "Customise Hydraulic Machine",
+        "ImgUrl": [
+            "/Assets/Manufacture/Special Purpose Machine.webp"
+        ],
+        "Price": "Ask for the price",
+        "manufacturer": "GHS",
+        "country_of_origin": "India",
+        "applications": "Metalworking, Manufacturing",
+        "powerSource": "Electric",
+        "capacity": "-",
+        "warranty": "1 year"
+    },
+    {
+        "id": 19,
+        "specaility": false,
+        "subCategory": false,
+        "productName": "Hydraulic Deep Draw Machine",
+        "ImgUrl": [
+            "/Assets/Manufacture/Hydraulic Deep Draw Machine.webp"
+        ],
+        "Price": "₹ 4,500,000/-",
+        "manufacturer": "GHS",
+        "country_of_origin": "India",
+        "applications": "Shape sheet metal or other materials",
+        "powerSource": "Electric",
+        "capacity": "20 TON TO 100 TON",
+        "warranty": "1 year"
+    },
+    {
+        "id": 12,
+        "specaility": false,
+        "subCategory": false,
+        "productName": "Plate Rolling Machine",
+        "ImgUrl": [
+            "/Assets/Manufacture/Plate Rooling Machine.jpg1.webp",
+            "/Assets/Manufacture/Plate Rooling Machine.webp"
+        ],
+        "Price": "₹ 4,00,000/- ONWARDS",
+        "manufacturer": "GHS",
+        "country_of_origin": "India",
+        "applications": "Metalworking, Manufacturing",
+        "powerSource": "Electric",
+        "capacity": "0.5 M.M. TO 50 M.M.",
+        "warranty": "1 year"
+    },
+    {
+        "id": 18,
+        "specaility": false,
+        "subCategory": false,
+        "productName": "Sheering Machine",
+        "ImgUrl": [
+            "/Assets/Manufacture/Shearing machine1.webp"
+        ],
+        "Price": "₹ 15,00,000/-",
+        "manufacturer": "GHS",
+        "country_of_origin": "India",
+        "applications": "Cut and shape metal sheets or other materials",
+        "powerSource": "Electric",
+        "capacity": "6 M.M TO 20 M.M",
+        "warranty": "1 year"
+    },
+    {
+        "id": 15,
+        "specaility": true,
+        "subCategory": false,
+        "productName": "Hydraulic Power Unit",
+        "ImgUrl": [
+            "/Assets/Manufacture/Hydraulic Power Unit.webp",
+            "/Assets/Manufacture/Hydraulic Power Unit.jpg2.webp"
+        ],
+        "Price": "₹ 26000/- ONWARDS",
+        "manufacturer": "GHS",
+        "country_of_origin": "India",
+        "applications": "Industrial Machinery",
+        "powerSource": "Electric",
+        "capacity": "0.5 TO 50 HP",
+        "warranty": "1 year"
+    },
+    {
+        "id": 16,
+        "specaility": true,
+        "subCategory": false,
+        "productName": "Hydraulic Press Machine",
+        "ImgUrl": [
+            "/Assets/Manufacture/hydraulic-press Machine.webp"
+        ],
+        "Price": "₹ 60,000/- ONWARDS",
+        "manufacturer": "GHS",
+        "country_of_origin": "India",
+        "applications": "Metalworking, Forging, Stamping, Molding",
+        "powerSource": "Electric",
+        "capacity": "5 TON TO 1000 TON",
+        "warranty": "1 year"
+    },
+    {
+        "id": 17,
+        "specaility": true,
+        "subCategory": false,
+        "productName": "Hydraulic Cylinder",
+        "ImgUrl": [
+            "/Assets/Manufacture/PRESS-CYLINDER-2.webp",
+            "/Assets/Manufacture/800-ton-double-acting-hydraulic-cylinder.webp",
+            "/Assets/Manufacture/PRESS-CYLINDER-2 (1).webp",
+            "/Assets/Manufacture/LIFT-CYLINDER.webp"
+        ],
+        "Price": "₹ 6000/- ONWARDS",
+        "manufacturer": "GHS",
+        "country_of_origin": "India",
+        "applications": "Heavy lifting, Pushing, Pulling",
+        "powerSource": "Electric",
+        "capacity": "5 TON TO 1000 TON",
+        "warranty": "1 year"
+    }
+]
